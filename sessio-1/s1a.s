@@ -13,7 +13,8 @@ ff:	.half -1
 	
 main:
 
-
+for:
+	b $t0, $t1, for
 
 
 
